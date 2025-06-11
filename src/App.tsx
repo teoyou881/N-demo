@@ -5,6 +5,7 @@ import HomePage from './pages/Homepage/HomePage.tsx';
 import MovieDetailPage from './pages/MovieDetail/MovieDetailPage.tsx';
 import MoviePage from './pages/Movies/MoviePage.tsx';
 import NotFoundPage from './pages/NotFoundpage/NotFoundPage.tsx';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
 
